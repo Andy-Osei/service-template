@@ -573,11 +573,11 @@ header {
 
 /* footer styles */
 footer {
-  margin-top: 3rem;
+  /* margin-top: 3rem; */
   background-image: url("./asset/footer.png");
   background-repeat: no-repeat;
   background-position: bottom;
-  padding: 2rem 4rem;
+  padding: 3rem 4rem;
 }
 
 @media only screen and (max-width: 51.25em) {
